@@ -22,7 +22,7 @@ This project provides custom ESPHome YAML and instructions for controlling Mars 
 - This will let you interface with a serial programmer.
 
 ### 3. Connect to a serial adapter
-- Connect pin IO0 to GND before connecting to put the device iun download mode, remove after boot.
+- Connect pin IO0 (DEBUG) to GND before connecting to put the device in download mode, remove after boot.
 - Use an ESP-compatible USB-to-Serial adapter (for example: CH340 3.3V-5V TTL USB Serial Port Adapter).
 - Make sure to use 3.3V for power and IO.
 - **Wiring tip:** RXD on the adapter connects to TXD on the dongle, and TXD on the adapter connects to RXD on the dongle.
