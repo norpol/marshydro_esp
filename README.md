@@ -1,5 +1,7 @@
 ESPHome firmware for the original Mars Hydro Bluetooth dongle
 
+⚠️ BACKUP YOUR DEVICE IF YOU EVER WANT TO REVERT TO THE OLD FIRMWARE!! ⚠️
+
 # marshydro_esp
 Flash and configure the original Mars Hydro Bluetooth dongle to work with ESPHome.  
 This project provides custom ESPHome YAML and instructions for controlling Mars Hydro lights locally via Home Assistant.
